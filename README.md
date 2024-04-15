@@ -12,7 +12,7 @@ Iva Kroghrud gave [an interview to a New York Times](https://www.nytimes.com/201
 - [Standout Assessment](https://www.tmbc.com/): [Stimulator, Equalizer](https://drive.google.com/file/d/1J2Z941KVwLNOR3Rv3jpQ5Bn1S-Aanv94/view?usp=sharing)
 - [Johnson O’Conner Research Center](https://www.jocrf.org/): [Sherlock Holmes Combination](https://drive.google.com/file/d/1rR5XycdmxZftW_beZkQsjEfCXWxkAefA/view?usp=sharing)
 
-## 🛜 WORKING STYLE
+### 🛜 WORKING STYLE
 
 It’s helpful for me to understand the BIG PICTURE, not just the details that relate to my world. Tell me the business reason and outcomes, the audience, the deadline, and any other context you can think of! 
 
@@ -20,25 +20,25 @@ I believe that any change in culture or process needs to be by example and from 
 
 More than anything I thrive in collaborative environments, bouncing ideas off of other people and using all of our resources and talents to think outside of the box. 
 
-## 💪 STRENGTHS
+### 💪 STRENGTHS
 
 **Ideaphoria:** I have a great capacity for creative thought and imagination. Need a bunch of ideas to solve a problem? I’m here for you. Will they all be good? Oh no. But there will be a lot of them. 
 
 **Learning New Skills:** My favorite hobby is collecting hobbies. Need someone who can get up to speed on a new program or process overnight? Give me a call. 
 
-## 🍳 WEAKNESSES
+### 🍳 WEAKNESSES
 
 **Confrontation:** I don’t shy away from saying the hard thing or setting boundaries but if your tone or manner can be perceived as aggressive I will remove myself from the situation.  
 
 **Saying No:** I always want to be helpful and tend to say yes when asked to lend a hand. This sometimes means that I don’t actually have the bandwidth to help. 
 
-## 💖 LIKES
+### 💖 LIKES
 
 **Feedback:** I am always interested in improving my methods or deliverables. I won’t take it personally if it’s constructive and immediately given, especially if there are specific examples. Positive feedback is ALWAYS welcome and appreciated. 
 
 **Explicit Calendar Events:** There is nothing more exciting than seeing a calendar event with everything I need right there in the description. An agenda, links to documents, roles, desired outcomes, even just a copy of the email that kicked off the meeting!! 
 
-## 💔 DISLIKES
+### 💔 DISLIKES
 
 **Turtles:** Just no. 
 
