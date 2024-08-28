@@ -44,10 +44,8 @@ More than anything I thrive in collaborative environments, bouncing ideas off of
 
 **Unnecessary Apologies:** A few minutes late to a meeting? Unsure of the details or an answer? Something outside your control not working? We all have better things to do than apologize, so please don’t. 
 
-## 📣 HOW TO CONTACT JULIE
-- Quick questions or fast facts? Project Status? Sharing an Update? Find me on slack! 
-- Complicated process or larger collaboration? My calendar is always up to date, please add time!
-- An emergency or urgent situation? Text me. 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## 🤔 FAQ
 
